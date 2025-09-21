@@ -39,7 +39,11 @@ Execute o script
 ```bash
   .\Install-DevApps.ps1
 ```
+Caso ocorra algum erro na execução, execute o comando abaixo como adiministrador no Terminal:
 
+```bash
+    Set-ExecutionPolicy Unrestricted
+```
 
 ## Aprimoramentos
 
